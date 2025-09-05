@@ -22,12 +22,6 @@ to **Google Sheets**, enabling **remote monitoring** and real-time clinical trac
 - **Libraries:** Pandas, NumPy, Matplotlib, gspread (Google Sheets API)  
 - **Domain:** IoT, Biomedical Signal Processing  
 
----
-
-## 📂 Project Structure
-├── CODIGO_PRESION_FUNCIONAL.ino # Arduino code for data acquisition
-├── Interpretacion de Datos.py # Python script for processing and visualization
-└── README.md
 
 ---
 
