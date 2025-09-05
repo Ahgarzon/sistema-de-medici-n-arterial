@@ -31,9 +31,9 @@ to **Google Sheets**, enabling **remote monitoring** and real-time clinical trac
 - Real-time cloud data storage for clinical follow-up.
 
 ### Example Output  
-*(Add a graph of the pressure curve or classification example if available)*
+<img width="900" height="760" alt="image" src="https://github.com/user-attachments/assets/f0cae9c6-4df6-451e-9e50-8083bb5f1ecc" />
 
----
+
 
 ## 📥 Installation
 1. Clone the repository:
